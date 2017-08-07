@@ -1,0 +1,13 @@
+package javabasic;
+
+public class basicMath {
+
+	public static void main(String[] args) {
+		System.out.println(10+10); //plus
+		System.out.println(10-5);  //minus
+		System.out.println(10*5);  //gange
+		System.out.println(10/2);  //dividere
+		System.out.println(10%2);  //rest efter division (kaldes modulo)
+	}
+
+}
